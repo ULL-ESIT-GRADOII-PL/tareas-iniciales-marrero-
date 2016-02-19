@@ -25,7 +25,7 @@ Tras la instalación se puede ejecutar una terminal **Node.js**, aquí una captu
 
 En este caso ya lo teníamos instalado y el resultado de la ejecución fue la siguiente:
 
-![](imagenes/express.jpg)
+![](imagenes/express.JPG)
 
 ###Hola Mundo con NodeJS
 Cuando ya tenemos NodeJS instalado podemos abrir una consola y tras ejecutar el comando *node* escribir algo como:
@@ -36,12 +36,12 @@ Cuando ya tenemos NodeJS instalado podemos abrir una consola y tras ejecutar el 
 
 El resultado que  obtenemos es:
 
-![](imagenes/hello.jpg)
+![](imagenes/hello.JPG)
 
 ##ATOM
 ATOM es un IDE desarrollador por Github, es un editor muy cómodo y sencillo que resulta muy atractivo para el programador y que proporciona muchas opciones de personalización. Aquí podemos ver una captura de imagen de este editor mientras escribimos este mismo fichero:
 
-![](imagenes/atom.jpg)
+![](imagenes/atom.JPG)
 
 
 ###Pruebas con Markdown
